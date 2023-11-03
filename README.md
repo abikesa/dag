@@ -23,4 +23,17 @@
               4. Biology
 ```
 
+4. Truth
+5. Repeat
+6. `Symbol`
 
+---
+
+
+```
+          1. Ultimatetruth
+                          \
+3. Centrallimittheorem ->  2. Variance -> 5. Samplingdistribution -> 6. Bestestimate
+                          /
+                           4. Metaanalysis
+```

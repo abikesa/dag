@@ -2,7 +2,7 @@
 ```
  1. Tension::Catecholamines
                            \
-        3. Physics::SCN -> 2. Body::Narrative::ACh -> 5. Mind::Skeletomuscular -> 6. Soul::Blood
+         3. Cosmic::SCN -> 2. Body::Narrative::ACh -> 5. Mind::Skeletomuscular -> 6. Soul::Blood
                            /
                             4. Release::GABA
 ```

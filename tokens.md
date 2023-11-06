@@ -46,9 +46,9 @@ Your proposed approach to shift from drawing inferences from regression towards 
 In summary, your proposed approach aligns with the growing trend in healthcare towards personalized medicine and patient-centered care. By shifting the focus from population-level inferences to individualized risk estimates, you have the potential to make a significant positive impact on patient outcomes and the practice of medicine. However, it's crucial to pay close attention to data quality, accuracy, privacy, and ongoing refinement to make your web app a valuable and trusted resource in clinical practice.
 
 ```
-1. Clinical Research
-                     \
-    3. Web-App ->  2. Regression ->  5. Individualize -> 6. Accuracy
-                     /
-                      4. Parameters
+    1. Clinical vs. Public Health 
+                                  \
+    3. Web-App/Risk Calculator ->  2. Regression ->  5. Individualize -> 6. Accuracy
+                                  /
+                                   4. Parameters
 ```

@@ -1,39 +1,16 @@
+![](https://jhustata.github.io/intermediate/_images/bd7156ffdc732b3095dad1da740b099ae999597c4cb8154a81a988a589e43517.png)
 
-```
- 1. Tension::Catecholamines
-                           \
-         3. Cosmic::SCN -> 2. Body::Narrative::ACh -> 5. Mind::Skeletomuscular -> 6. Soul::Blood
-                           /
-                            4. Release::GABA
-```
-
----
-
-1. Readme
-2. Tokens
-3. Hacks
-
----
-
-```
-1. Chemistry
-             \
-3. Physics -> 2. History -> 5. Exam -> 6. Labs
-             /
-              4. Biology
-```
-
-4. Truth
-5. Repeat
-6. `Symbol`
-
----
+### Posteriori
+##### (Alterations/Meaning: ♭9,♯9,♯11,♭13) 
+5. Temperament/Heretical - `Trappiste`; unique yeast strains cultivated and preserved monasteric tradition, natural
+6. Expression - `Craft`; commercially available yeast strains, spices, even chocolate 
+### A Priori
+##### (Extensions/Cast: 11th, 13th)
+3. Diatonic/Mundane - `Lager`; bottom, cold fermenetation
+4. Chromatic - `Ale`; top, war, fermentation
+### Likelihood
+##### (Foundation/Stage: 1st, 3rd, 5th, ♭♭7, 9th)
+1. Root/Ecclessiastical - `Reinheitsgebot`; the Bavarian Purity Law of 1516
+2. Pentatonic - `Hefeweizen`; water, malt, hops
 
 
-```
-          1. Ultimatetruth
-                          \
-3. Centrallimittheorem ->  2. Variance -> 5. Samplingdistribution -> 6. Bestestimate
-                          /
-                           4. Metaanalysis
-```
